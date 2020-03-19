@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    width: 2000px;
+}
+
+
+body{
+    text-align: center;
+    width: 2000px;
+    height: 10000px;
+}
+
+
+.p1{
+    text-align: left;
+    width: 80px;
+    border-radius: 10px solid red;
+    padding: 100px;
+}
+
+a{
+    color: red;
+}
+
+
+a:hover{
+    color: blue;
+}

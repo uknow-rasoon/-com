@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    width: 2000px;
+    font-size: 70px;
+}
+
+
+body{
+    text-align: center;
+    width: 2000px;
+    height: 10000px;
+}
+
+
+div{
+    border-radius: 15px;
+    border-color: crimson;
+}
+
+
+h3{
+    font-size: 30px;
+}
+
+
+img{
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+.p1{
+    text-align: left;
+    width: 80px;
+    border-radius: 10px solid red;
+}
+
+
+h2{
+    font-size: 40px;
+}
+
+
+a{
+    color: red;
+    font-size: 20px;
+}
+
+a:hover{
+    color: blue;
+}
